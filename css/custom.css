@@ -1,0 +1,34 @@
+@import url(http://fonts.googleapis.com/css?family=MedievalSharp);
+
+#rapid_contact_customsendbutton{
+background:none !important;
+border:none !important;
+color:#481a00 !important;
+text-transform:uppercase !important;
+font-weight:bold;
+float:right !important;
+width:100px !important;
+display:inline-block;
+width: 175px !important;
+height:20px;
+font-family: 'MedievalSharp', Arial, Helvetica, sans-serif;
+}
+#rapid_contact_customsendbutton:hover{
+color:#ef4f00 !important;
+}
+#rapid_contact_customclearbutton{
+background:none !important;
+border:none !important;
+color:#481a00 !important;
+text-transform:uppercase !important;
+font-weight:bold;
+float:right !important;
+width:100px !important;
+display:inline-block;
+width: 175px !important;
+height:20px;
+font-family: 'MedievalSharp', Arial, Helvetica, sans-serif;
+}
+#rapid_contact_customclearbutton:hover{
+color:#ef4f00 !important;
+}
